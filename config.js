@@ -1,17 +1,17 @@
 require("./database/module")
 
 //GLOBAL PAYMENT
-global.storename = "ByyX STR"
-global.dana = "082127568219"
+global.storename = "dqr"
+global.dana = "08395"
 global.qris = "-"
 
 
 // GLOBAL SETTING
-global.owner = "6282127568219"
-global.namabot = "ByxxBotz"
-global.nomorbot = "6282127568219"
-global.namaCreator = "byyxZ"
-global.linkyt = "https://youtube.com/@abyyyferrr"
+global.owner = "6283870771598"
+global.namabot = "dqr"
+global.nomorbot = "6283870771598"
+global.namaCreator = "dqr"
+global.linkyt = "https://youtube.com/@errr"
 global.autoJoin = false
 global.antilink = false
 global.versisc = '4.7.0'
@@ -24,10 +24,10 @@ global.delayjpm = 5500
 //GLOBAL THUMB
 
 global.codeInvite = ""
-global.imageurl = 'https://g.top4top.io/p_3194iz70l0.jpg'
-global.isLink = 'https://whatsapp.com/channel/0029Val78a7EawdvrnMrxC2B'
-global.packname = "byx toxx"
-global.author = "AbyyX"
+global.imageurl = 'https://g.top4top.io/p_3194i70l0.jpg'
+global.isLink = 'https://whatsapp.com/channel/008a7EawdvrnMrxC2B'
+global.packname = "dwrx"
+global.author = "dqr"
 global.jumlah = "5"
 
 
